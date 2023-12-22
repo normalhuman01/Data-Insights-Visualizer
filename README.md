@@ -1,6 +1,6 @@
 # Data Insights Visualizer
 
-![Data Insights Visualizer](link_to_an_image_if_available.png)
+![Data Insights Visualizer](https://github.com/normalhuman01/GraphCraft/blob/main/img/imagen1.png)
 
 ## Overview
 
